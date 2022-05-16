@@ -1,16 +1,31 @@
 ### Hi there 👋
 
-<!--
-**mhurtado28/mhurtado28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Mauricio Hurtado :ocean: :earth_americas:
 
-Here are some ideas to get you started:
+### Fishing Engineer
+### Student M.Sc Physic Oceanography
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Analizo data del Océano y atmósfera para fines de investigación científica :ocean: :cloud: :earth_americas:
+
+- Analizo Data biológica y ecológica. (En vida marina)  :fish: :shark:
+
+- Estudiando para ser Data Analyst  :bar_chart:
+
+
+Trabajo en Matlab ... Good
+
+Trabajo en R .... Good
+
+Aprendiendo Python.... Loading% :shamrock:
+
+Aprendiendo SQL ..... Loading% :seedling:
+
+Aprendiendo Tableau .... Loading% :seedling:
+
+:climbing_man: METAS / GOALS
+
+Data Science / Machine Learning / IA
+
+
+- 📫 How to reach me:
+E-mail: mhurtado2896@gmail.com 
