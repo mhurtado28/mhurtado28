@@ -9,7 +9,7 @@
 
 - Analizo Data biológica y ecológica. (En vida marina)  :fish: :shark:
 
-- Estudiando para ser Data Analyst  :bar_chart:
+- Proximamente Data Analyst  :bar_chart:
 
 
 Trabajo en Matlab ... Good
