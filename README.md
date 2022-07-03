@@ -24,7 +24,7 @@ Aprendiendo PowerBI .... Loading% :seedling:
 
 :climbing_man: METAS / GOALS
 
-Data Science / Machine Learning / IA
+Data Science 
 
 
 - 📫 How to reach me:
