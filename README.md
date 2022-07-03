@@ -5,7 +5,7 @@
 ### Fishing Engineer
 ### Student M.Sc Physic Oceanography
 
-- Analizo data del Océano y atmósfera para fines de investigación científica :ocean: :cloud: :earth_americas:
+- Analizo data del Océano y atmósfera :ocean: :cloud: :earth_americas:
 
 - Analizo Data biológica y ecológica. (En vida marina)  :fish: :shark:
 
