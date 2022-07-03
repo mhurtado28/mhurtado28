@@ -20,7 +20,7 @@ Aprendiendo Python.... Loading% :shamrock:
 
 Aprendiendo SQL ..... Loading% :seedling:
 
-Aprendiendo Tableau .... Loading% :seedling:
+Aprendiendo PowerBI .... Loading% :seedling:
 
 :climbing_man: METAS / GOALS
 
