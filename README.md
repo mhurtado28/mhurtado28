@@ -3,7 +3,7 @@
 ### Mauricio Hurtado :ocean: :earth_americas:
 
 ### Fishing Engineer
-### Student M.Sc Physic Oceanography
+### M.Sc Physic Oceanography Student
 
 - Analizo data del Océano y atmósfera :ocean: :cloud: :earth_americas:
 
