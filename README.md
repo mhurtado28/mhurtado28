@@ -9,18 +9,18 @@
 
 - Analizo Data biológica y ecológica. (En vida marina)  :fish: :shark:
 
-- Proximamente Data Analyst  :bar_chart:
+- Incursionando con análisis de Data comercial  :bar_chart:
 
 
 Trabajo en Matlab ... Good
 
 Trabajo en R .... Good
 
-Aprendiendo Python.... Loading% :shamrock:
+Python.... Loading% :shamrock:
 
-Aprendiendo SQL ..... Loading% :seedling:
+SQL ..... Loading% :seedling:
 
-Aprendiendo PowerBI .... Loading% :seedling:
+PowerBI .... Loading% :seedling:
 
 :climbing_man: METAS / GOALS
 
