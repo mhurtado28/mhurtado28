@@ -16,7 +16,7 @@ Trabajo en Matlab ... Good
 
 Trabajo en R .... Good
 
-Python.... Loading% :shamrock:
+Python.... Good :shamrock:
 
 SQL ..... Loading% :seedling:
 
