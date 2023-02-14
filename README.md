@@ -10,14 +10,14 @@
 
 - Analizo data del Océano y atmósfera :ocean: :cloud: :earth_americas:
 
-- Analizo Data biológica y ecológica. (En vida marina)  :fish: :shark:
+- Analizo Data biológica y ecológica  :fish: :shark:
 
 
 Trabajo en Matlab ... Good
 
 Trabajo en R .... Good
 
-Python.... Good :shamrock:
+Python.... Good (My favorite) :shamrock:
 
 SQL ..... Loading% :seedling:
 
