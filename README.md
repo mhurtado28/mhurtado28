@@ -6,14 +6,13 @@
 ### M.Sc Physic Oceanography Student
 ### Fishing Engineer expert in Biostadistics 
 
+### Analista de datos en SEPEC (Servicio Estadistico Pesquero de Colombia) :bar_chart:
+
 - Data Science en CODERHOUSE  :bar_chart:
 
 - Analizo data del Océano y atmósfera :ocean: :cloud: :earth_americas:
 
 - Analizo Data biológica y ecológica  :fish: :shark:
-
-
-Analista de datos en SEPEC (Servicio Estadistico Pesquero de Colombia) :bar_chart:
 
 
 Python.... Good (My favorite) :shamrock:
