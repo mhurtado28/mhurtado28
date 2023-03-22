@@ -2,9 +2,9 @@
 
 ### Mauricio Hurtado :ocean: :earth_americas:
 
-### Fishing Engineer expert in Stadistics
 ### Data Scientist
 ### M.Sc Physic Oceanography Student
+### Fishing Engineer expert in Biostadistics 
 
 - Data Science en CODERHOUSE  :bar_chart:
 
