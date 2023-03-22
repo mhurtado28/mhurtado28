@@ -6,21 +6,20 @@
 ### Data Scientist
 ### M.Sc Physic Oceanography Student
 
-- Finalizando Data Science en CODERHOUSE  :bar_chart:
+- Data Science en CODERHOUSE  :bar_chart:
 
 - Analizo data del Océano y atmósfera :ocean: :cloud: :earth_americas:
 
 - Analizo Data biológica y ecológica  :fish: :shark:
 
 
-Trabajo en Matlab ... Good
+Analista de datos en SEPEC (Servicio Estadistico Pesquero de Colombia) :bar_chart:
 
-Trabajo en R .... Good
 
 Python.... Good (My favorite) :shamrock:
-
+Matlab ... Good
+R .... Good
 SQL ..... Loading% :seedling:
-
 PowerBI .... Loading% :seedling:
  
 
