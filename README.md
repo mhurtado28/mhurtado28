@@ -17,12 +17,15 @@ Analista de datos en SEPEC (Servicio Estadistico Pesquero de Colombia) :bar_char
 
 
 Python.... Good (My favorite) :shamrock:
+
 Matlab ... Good
+
 R .... Good
+
 SQL ..... Loading% :seedling:
+
 PowerBI .... Loading% :seedling:
  
-
 
 - 📫 How to reach me:
 E-mail: mhurtado2896@gmail.com 
