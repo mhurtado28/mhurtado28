@@ -5,7 +5,6 @@
 ### Data Scientist
 ### M.Sc Physic Oceanography Student
 
-### Analista de datos en SEPEC (Servicio Estadistico Pesquero de Colombia) :bar_chart:
 
 - Data Science en CODERHOUSE  :bar_chart:
 
