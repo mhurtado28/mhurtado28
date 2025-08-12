@@ -6,9 +6,7 @@
 ### M.Sc Physic Oceanography Student
 
 
-- Data Science en CODERHOUSE  :bar_chart:
-
-- Analizo data del Océano y atmósfera :ocean: :cloud: :earth_americas:
+- Analizo data del Océano y la atmósfera :ocean: :cloud: :earth_americas:
 
 
 Python.... Good (My favorite) :shamrock:
@@ -17,9 +15,6 @@ Matlab ... Good
 
 R .... Good
 
-SQL ..... Loading% :seedling:
-
-PowerBI .... Loading% :seedling:
  
 
 - 📫 How to reach me:
